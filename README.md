@@ -9,6 +9,10 @@ This script is very simple and so is the usage.
 
 ### Installation
 
+## Arch Linux
+There is an AUR package available for you to use: [wgroute](https://aur.archlinux.org/packages/wgroute)
+If you use Arch you probably already know how to install it so I won't bother explaining.
+## Other traditional UNIX-like systems
 First clone this project using git:
 ```shell
 $ git clone https://github.com/ronthecookie/wgroute.git
