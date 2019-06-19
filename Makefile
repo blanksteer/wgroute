@@ -1,4 +1,4 @@
 install:
-	install wgroute /usr/bin
+	install wgroute $(DESTDIR)/usr/bin
 uninstall:
 	rm /usr/bin/wgroute
